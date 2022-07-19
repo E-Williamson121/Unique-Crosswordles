@@ -1,0 +1,10 @@
+janes,isnae,mensa|242,49,49|j
+joint,jeton,junto|242,175,175|j
+qualm,aumil,mulga|242,145,145|q
+squib,abuse,tsubo|242,48,48|q
+overs,estro,soare|242,115,115|v
+exert,arete,steer|242,49,49|x
+extra,artel,retag|242,129,129|x
+oxers,estro,soare|242,115,115|x
+retax,great,strae|242,43,43|x
+taxes,earst,saute|242,139,139|x
